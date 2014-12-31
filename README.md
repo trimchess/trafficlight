@@ -15,3 +15,5 @@ LED_RED     gpio_29
 LED_YELLOW  gpio_28
 LED_GREEN   gpio_27
 Button      gpio_26
+
+Thanks Danu for the great rasi!
